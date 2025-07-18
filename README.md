@@ -8,7 +8,9 @@ The Crew is played across 50 'missions' where players aim to win tricks based on
 Upon its release, The Crew received critical success and won numerous awards. A sequel, The Crew: Mission Deep Sea, was released in 2021.
 
 In our version coded in C, all missions are generated randomly.
-How to Execute the Card Game
+
+
+How to Execute the Card Game : 
 With Code::Blocks
 
     Download the project files and open the .cbp file using the Code::Blocks IDE (this IDE was mandatory as part of the assignment).
