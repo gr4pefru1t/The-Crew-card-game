@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1715376529 source:c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"declarations.h"
+	"partie.h"
+	"cartes.h"
+
+1715376397 c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\declarations.h
+
+1715376448 c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\partie.h
+
+1715376397 c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\cartes.h
+
+1715376569 source:c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\cartes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"declarations.h"
+	"partie.h"
+	"cartes.h"
+	"Affichage.h"
+
+1715376397 c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\affichage.h
+
+1744364746 source:c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"declarations.h"
+	"partie.h"
+	"cartes.h"
+	"Affichage.h"
+	"mission.h"
+	"Verif.h"
+
+1715376479 c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\mission.h
+
+1715376504 c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\verif.h
+
+1716805616 source:c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\mission.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"declarations.h"
+	"partie.h"
+	"cartes.h"
+	"Affichage.h"
+	"Verif.h"
+
+1715376597 source:c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\partie.c
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"partie.h"
+	"cartes.h"
+
+1715376675 source:c:\users\dangt\onedrive\desktop\estaca 2023-2024\algorithmie & programmation\the crew\the crew version finale\verif.c
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"partie.h"
+	"cartes.h"
+	"Affichage.h"
+	"mission.h"
+	"Verif.h"
+
