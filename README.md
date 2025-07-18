@@ -29,19 +29,9 @@ Without Code::Blocks
 
     Compile the program manually, for example:
 
-gcc -o the_crew main.c other_source_files.c
+    gcc -o the_crew main.c other_source_files.c
 
-Replace main.c and other_source_files.c with the actual filenames.
-
-Run the executable:
-
-    On Windows:
-
-the_crew.exe
-
-On Linux/macOS:
-
-        ./the_crew
+    Replace main.c and other_source_files.c with the actual filenames.
 
 Project Structure
 
